@@ -12,7 +12,7 @@ Dice "Opcional puedes usar la terminal de docker para ingresar los comandos" per
 ## Imagenes del DBMS funcionando correctamente
 
 ![alt text](imagen2.png)
-![alt text](imagen3.jpg)
+![alt text](imagen3.png)
 ## Imagen de los contenedores funcionando 
 ![alt text](imagen4.png)
 
